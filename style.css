@@ -1,0 +1,25 @@
+h1 {
+    color: red;
+    font-size:50px;
+}
+
+img {
+    margin: auto;
+}
+
+p {
+    text-align: center;
+    color: green;
+    
+}
+
+body {
+    background-image: url("https://image.shutterstock.com/image-photo/pink-bright-texture-designer-background-260nw-1040229760.jpg");
+    text-align: center;
+}
+
+a {
+    background: white;
+    font-size: 40px;
+    line-height: 150%;
+}
